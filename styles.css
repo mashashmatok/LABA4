@@ -69,7 +69,7 @@ header {
   position: relative;
   width: 100%;
   height: 400px;
-  background-image: url("/Безымянный.png"); /* Замените на ссылку к вашей картинке */
+  background-image: url("Безымянный.png"); /* Замените на ссылку к вашей картинке */
   background-size: cover;
   background-position: center;
 }
